@@ -22,7 +22,7 @@ delivery_roots = ["intent"]
 ground_link_types = ["derives_from", "implements"]
 ai_origins = ["ai", "hybrid"]
 
-# Chapters (ASVS V1..V14) are user_requirements grouping the standard; each
+# Chapters (ASVS V1..V17) are user_requirements grouping the standard; each
 # verification requirement is a system_requirement implementing its chapter.
 [types.user_requirement]
 attrs.source_ref = { required = true }
