@@ -1,4 +1,4 @@
-# standard-asvs
+# throughline-asvs
 
 The **OWASP Application Security Verification Standard (ASVS)** expressed as a
 [throughline](https://pypi.org/project/throughline/) **source** — a standalone,
@@ -51,7 +51,7 @@ In a consuming throughline project's `throughline.toml`:
 ```toml
 [[sources]]
 namespace = "asvs"
-path = "vendor/standard-asvs"   # or a pinned checkout
+path = "vendor/throughline-asvs"   # or a pinned checkout
 ```
 
 Then reference a clause from your own items:
