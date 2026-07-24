@@ -36,6 +36,8 @@ It carries
 
 > Verification requirements for Encoding and Sanitization (V1).
 
+*Derives from:* INT-0001
+
 **source_ref**: V1
 <!-- tl:end -->
 
@@ -81,6 +83,8 @@ It carries
 
 > Verification requirements for Validation and Business Logic (V2).
 
+*Derives from:* INT-0001
+
 **source_ref**: V2
 <!-- tl:end -->
 
@@ -108,6 +112,8 @@ It carries
 **UR-0003 — V3 Web Frontend Security** — `user_requirement`, status `approved`
 
 > Verification requirements for Web Frontend Security (V3).
+
+*Derives from:* INT-0001
 
 **source_ref**: V3
 <!-- tl:end -->
@@ -155,6 +161,8 @@ It carries
 
 > Verification requirements for API and Web Service (V4).
 
+*Derives from:* INT-0001
+
 **source_ref**: V4
 <!-- tl:end -->
 
@@ -186,6 +194,8 @@ It carries
 
 > Verification requirements for File Handling (V5).
 
+*Derives from:* INT-0001
+
 **source_ref**: V5
 <!-- tl:end -->
 
@@ -213,6 +223,8 @@ It carries
 **UR-0006 — V6 Authentication** — `user_requirement`, status `approved`
 
 > Verification requirements for Authentication (V6).
+
+*Derives from:* INT-0001
 
 **source_ref**: V6
 <!-- tl:end -->
@@ -276,6 +288,8 @@ It carries
 
 > Verification requirements for Session Management (V7).
 
+*Derives from:* INT-0001
+
 **source_ref**: V7
 <!-- tl:end -->
 
@@ -310,6 +324,8 @@ It carries
 
 > Verification requirements for Authorization (V8).
 
+*Derives from:* INT-0001
+
 **source_ref**: V8
 <!-- tl:end -->
 
@@ -338,6 +354,8 @@ It carries
 
 > Verification requirements for Self-contained Tokens (V9).
 
+*Derives from:* INT-0001
+
 **source_ref**: V9
 <!-- tl:end -->
 
@@ -359,6 +377,8 @@ It carries
 **UR-0010 — V10 OAuth and OIDC** — `user_requirement`, status `approved`
 
 > Verification requirements for OAuth and OIDC (V10).
+
+*Derives from:* INT-0001
 
 **source_ref**: V10
 <!-- tl:end -->
@@ -411,6 +431,8 @@ It carries
 
 > Verification requirements for Cryptography (V11).
 
+*Derives from:* INT-0001
+
 **source_ref**: V11
 <!-- tl:end -->
 
@@ -450,6 +472,8 @@ It carries
 
 > Verification requirements for Secure Communication (V12).
 
+*Derives from:* INT-0001
+
 **source_ref**: V12
 <!-- tl:end -->
 
@@ -476,6 +500,8 @@ It carries
 **UR-0013 — V13 Configuration** — `user_requirement`, status `approved`
 
 > Verification requirements for Configuration (V13).
+
+*Derives from:* INT-0001
 
 **source_ref**: V13
 <!-- tl:end -->
@@ -513,6 +539,8 @@ It carries
 
 > Verification requirements for Data Protection (V14).
 
+*Derives from:* INT-0001
+
 **source_ref**: V14
 <!-- tl:end -->
 
@@ -540,6 +568,8 @@ It carries
 **UR-0015 — V15 Secure Coding and Architecture** — `user_requirement`, status `approved`
 
 > Verification requirements for Secure Coding and Architecture (V15).
+
+*Derives from:* INT-0001
 
 **source_ref**: V15
 <!-- tl:end -->
@@ -577,6 +607,8 @@ It carries
 
 > Verification requirements for Security Logging and Error Handling (V16).
 
+*Derives from:* INT-0001
+
 **source_ref**: V16
 <!-- tl:end -->
 
@@ -608,6 +640,8 @@ It carries
 **UR-0017 — V17 WebRTC** — `user_requirement`, status `approved`
 
 > Verification requirements for WebRTC (V17).
+
+*Derives from:* INT-0001
 
 **source_ref**: V17
 <!-- tl:end -->
